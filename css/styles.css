@@ -1,0 +1,51 @@
+h1 {
+  color: red;
+  background-color: orange;
+  padding: 10px;
+  font-size: 17px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+}
+span {
+  color: red;
+}
+p {
+  font-weight: bold;
+}
+.online {
+  color: green;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+#bottom {
+  margin-top: 50px;
+  float: right;
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  border: 2px solid blue;
+  margin-left: 30px;
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+
+}
+
+/**,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}*/
